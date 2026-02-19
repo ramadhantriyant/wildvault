@@ -1,0 +1,16 @@
+# Directory
+.claude/
+
+# Binary
+wildvault
+
+# Go
+*.test
+*.out
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
